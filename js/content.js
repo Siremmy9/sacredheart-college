@@ -1,18 +1,18 @@
 const schoolContent = {
   staff: [
     {
-      name: "Mr Ajisafe Dorcas ",
-      position: "Educational Director",
+      name: "Most Rev. (Dr.) Francis Obafemi Adesina ",
+      position: "Proprietor",
       department: "Administration",
-      photo: "assets/images/gallery/staff.jpg",
-      bio: "Founder. Seasoned Educationist, devoted, disciplined, agile and caring mother",
+      photo: "assets/images/facilities/bishop.jpg",
+      bio: " Most Rev. (Dr.) Francis Obafemi Adesina (Bishop of the Catholic Diocese of Ijebu-Ode), Served in various pastoral positions, taught at major seminaries, and acted as Rector of Saints Peter and Paul Major Seminary in Ibadan (2013–2019).",
     },
     {
-      name: "Mrs. Agbale Onome",
-      position: "Head Teacher",
+      name: "Rev. Fr. Jude Okafor.",
+      position: "Principal",
       department: "Administration",
-      photo: "assets/images/logo.jpg",
-      bio: "Head Teacher with a primary purpose of raising excellent and morally upright people, leaders and world changers in the country",
+      photo: "assets/images/facilities/rev.jpg",
+      bio: "Rev.Fr (Principal) with a primary purpose of raising excellent and morally upright people, leaders and world changers in the country",
     },
     {
       name: "Mrs Adeleke",
