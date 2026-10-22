@@ -18,7 +18,7 @@ const schoolContent = {
       name: "Mrs Adeleke",
       position: "VIce Principal",
       department: "Primary",
-      photo: "assets/images/client3.jpg",
+      photo: "assets/images/logo.jpg",
       bio: "Head Teacher with a primary purpose of raising excellent and morally upright people, leaders and world changers in the country",
     },
     {
@@ -49,12 +49,12 @@ const schoolContent = {
   // Cultural Activities, Facilities  (list is galleryCategories in config.js)
   gallery: [
     {
-      image: "assets/images/gallery/eagleabout.jpg",
-      caption: "Eaglesworld",
+      image: "assets/images/facilities/building.jpg",
+      caption: "College",
       category: "Classrooms",
     },
     {
-      image: "assets/images/gallery/reading.jpg",
+      image: "assets/images/facilities/students.jpg",
       caption: "Reading time",
       category: "Students",
     },
@@ -64,12 +64,12 @@ const schoolContent = {
       category: "ICT Laboratory",
     },
     {
-      image: "assets/images/gallery/graduation.jpg",
+      image: "assets/images/facilities/graduation.jpg",
       caption: "Graduation day",
       category: "Graduation",
     },
     {
-      image: "assets/images/gallery/cultural.jpg",
+      image: "assets/images/facilities/cultureAlbert.jpg",
       caption: "Cultural parade",
       category: "Outdoor Activities",
     },
@@ -79,7 +79,7 @@ const schoolContent = {
       category: "Facilities",
     },
     {
-      image: "assets/images/gallery/assembly.jpg",
+      image: "assets/images/facilities/assembly.jpg",
       caption: "Assembly",
       category: "Students",
     },
@@ -115,21 +115,21 @@ const schoolContent = {
   // content: full text; use a blank line between paragraphs.
   news: [
     {
-      title: "School Resumption",
+      title: "School Admission",
       category: "Announcement",
       date: "2026-09-14",
-      image: "assets/images/news/eagleflyer.jpg",
+      image: "assets/images/facilities/admission.jpg",
       published: true,
       excerpt:
-        "Resumption dates, school hours and first-week arrangements are shared here once confirmed.",
+        "Admission updates, school hours and first-week arrangements are shared here once confirmed.",
       content: "",
       // Replace this sample text with the real announcement from the school.\n\nContact the school office or message us on WhatsApp if you have questions.
     },
     {
-      title: "Inter-House Sports",
-      category: "Sports",
+      title: "Cultural-display",
+      category: "Announcement",
       date: "2026-09-07",
-      image: "assets/images/news/sports.jpg",
+      image: "assets/images/facilities/culHarmony.jpg",
       published: true,
       excerpt:
         "Highlights, house points and photos from the school's sports competition.",
@@ -139,26 +139,26 @@ const schoolContent = {
       title: "Graduation Ceremony",
       category: "Events",
       date: "2026-08-30",
-      image: "assets/images/news/graduation.jpg",
+      image: "assets/images/facilities/graduation.jpg",
       published: true,
       excerpt:
         "Details of the ceremony for graduating pupils, with a guide for families.",
       content: "TBA.",
     },
     {
-      title: "Parents Meeting",
+      title: "Media Event",
       category: "Parents",
       date: "2026-08-23",
-      image: "assets/images/news/teagleeacher.jpg",
+      image: "assets/images/facilities/media.jpg",
       published: true,
-      excerpt: "Date, time and agenda for the next parents' meeting.",
+      excerpt: "Date, time and agenda for the next Media' meeting.",
       content: "TBA.",
     },
     {
-      title: "Cultural Day",
+      title: "Speech & Price Giving Day",
       category: "Events",
       date: "2026-08-15",
-      image: "assets/images/news/cultural.jpg",
+      image: "assets/images/facilities/speech:price.jpg",
       published: true,
       excerpt:
         "A day to celebrate Nigerian cultures through food, dress, music and dance.",
@@ -168,7 +168,7 @@ const schoolContent = {
       title: "Excursion",
       category: "Events",
       date: "2026-08-07",
-      image: "assets/images/news/excursion.jpg",
+      image: "assets/images/facilities/excassembly.jpg",
       published: true,
       excerpt:
         "Where our pupils are going, what to bring and how to give consent.",
@@ -184,10 +184,10 @@ const schoolContent = {
       content: "TBA.",
     },
     {
-      title: "Admission Announcement",
+      title: "Homecoming ",
       category: "Admissions",
       date: "2026-07-21",
-      image: "assets/images/news/eagleadmission.jpg",
+      image: "assets/images/facilities/homecoming.jpg",
       published: true,
       excerpt:
         "Admission is open. Read how to begin the process for your child.",
