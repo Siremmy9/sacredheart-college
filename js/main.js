@@ -148,9 +148,8 @@ const App = {
           <ul class="social-row" aria-label="Social media">${soc("facebook", "Facebook")}${soc("instagram", "Instagram")}${soc("tiktok", "TikTok")}${soc("youtube", "YouTube")}</ul></div>
       </div>
       <div class="footer-bottom"><div class="container footer-bottom__in">
-        <p>&copy; 2026 ${esc(cfg.name)}. All Rights Reserved.</p>
+        <p>&copy; 2026 SHCC. All Rights Reserved.</p>
         <p><span>${esc(cfg.designer)}</span></p>
-        <p><a href="admin/login.html">Admin login</a></p></div></div>
       <a class="wa-float" data-wa target="_blank" rel="noopener" aria-label="Chat with us on WhatsApp">${icon("whatsapp", 28)}<span>Chat with us</span></a>`;
     $$(".social.is-placeholder", f).forEach((a) =>
       a.addEventListener("click", (e) => {
@@ -439,7 +438,7 @@ const App = {
       </ul>`;
   };
 
-  /* Google Maps: paste the embed URL in config.js (mapUrl) or js/config.js. */
+  /* Google Maps: paste the embed URL in config.js (mapUrl) or js/config.js.footer */
   R.map = (el) => {
     const url = (cfg.mapUrl || "").trim();
     const ok =
