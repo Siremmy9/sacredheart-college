@@ -1,5 +1,5 @@
 const schoolConfig = {
-  /* ---- Identity mission what we stand for knowledgeable Raising---- */
+  /* ----  Identity mission what we stand for knowledgeable Raising---- */
   name: "Sacred Heart Catholic College",
 
   tagline: " Sacredheart",
@@ -44,7 +44,7 @@ const schoolConfig = {
 
   designer: " | Sowftech",
 
-  stats: { years: 25, students: 1400, staff: 70, programs: 12 },
+  stats: { years: 25, students: 2400, staff: 70, programs: 12 },
 
   /* ---- Sections of the school ---- */
   levels: [
@@ -106,8 +106,7 @@ const schoolConfig = {
   ],
 
   about: {
-    intro:
-      " Sacredheart was founded in 2011 and began with one building of six classrooms on a plot of land in Bashorun Estate Fara Park, Ajah Lagos. The name Sacredheart School came by the inspiration of the Holy Spirit and was founded on Biblical principles of making right the moral and academic wrong in the society. The school was founded by Mrs. Ajisafe Dorcas, a seasoned educationist, devoted, disciplined, agile and caring mother. Her friend, Mrs. Agbale Onome, was the Head Teacher with a primary purpose of raising excellent and morally upright people, leaders and world changers in the country and school facilities, adding the beyond the shore. Since its inception, the school has passion for imparting knowledge led students in the pursuit of topupils.",
+    intro: " Sacredheart was founded in 2001 and began with ",
     mission:
       "Every Child is Unique, with special Talents. Training turns talent to treasure. Any Child can be inspired to excellent greatness",
     mandate:
