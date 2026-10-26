@@ -11,7 +11,7 @@ const schoolContent = {
       name: "Rev. Fr. Jude Okafor.",
       position: "Principal",
       department: "Administration",
-      photo: "assets/images/facilities/rev.jpg",
+      photo: "assets/images/facilities/logo.jpg",
       bio: "Rev.Fr (Principal) with a primary purpose of raising excellent and morally upright people, leaders and world changers in the country",
     },
     {
