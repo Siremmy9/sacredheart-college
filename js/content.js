@@ -155,10 +155,10 @@ const schoolContent = {
       content: "TBA.",
     },
     {
-      title: "Speech & Price Giving Day",
+      title: "Speech & Price Day",
       category: "Events",
       date: "2026-08-15",
-      image: "assets/images/facilities/speech:price.jpg",
+      image: "assets/images/facilities/cultural.jpg",
       published: true,
       excerpt:
         "A day to celebrate Nigerian cultures through food, dress, music and dance.",
@@ -184,10 +184,10 @@ const schoolContent = {
       content: "TBA.",
     },
     {
-      title: "Homecoming ",
+      title: "Admission Announcement",
       category: "Admissions",
       date: "2026-07-21",
-      image: "assets/images/facilities/homecoming.jpg",
+      image: "assets/images/facilities/eagleadmission.jpg",
       published: true,
       excerpt:
         "Admission is open. Read how to begin the process for your child.",

@@ -32,7 +32,7 @@ const App = {
     ["Our School", "schools.html"],
     ["Academics", "academics.html"],
     // ["Admissions", "admissions.html Excellence"],
-    ["Fees", "fees.html"],
+    ["fees", "fees.html"],
     ["Facilities", "facilities.html"],
     ["Gallery", "gallery.html"],
     ["News", "news.html"],
@@ -137,7 +137,7 @@ const App = {
         </div>
         <div><h2 class="footer-h">Quick links</h2><ul class="footer-list">
           <li><a href="index.html">Home</a></li><li><a href="about.html">About</a></li><li><a href="admissions.html">Admissions</a></li>
-          <li><a href="fees.html">Fees</a></li><li><a href="gallery.html">Gallery</a></li><li><a href="contact.html">Contact</a></li></ul></div>
+          <li><a href="fees.html">fees</a></li><li><a href="gallery.html">Gallery</a></li><li><a href="contact.html">Contact</a></li></ul></div>
         <div><h2 class="footer-h">School sections</h2><ul class="footer-list">
           ${cfg.levels.map((l) => `<li><a href="schools.html#${l.id}">${esc(l.name)}</a></li>`).join("")}</ul></div>
         <div><h2 class="footer-h">Contact</h2><ul class="footer-list footer-contact">
@@ -204,7 +204,7 @@ const App = {
     });
   }
 
-  /* --------------------------------- Renderers --------------------------------- */
+  /* ---------------------------------fee Renderers --------------------------------- */
   const R = App.renderers;
 
   R.stats = (el) => {

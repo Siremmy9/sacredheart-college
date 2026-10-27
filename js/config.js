@@ -106,7 +106,7 @@ const schoolConfig = {
   ],
 
   about: {
-    intro: " Sacredheart was founded in 2001 and began with ",
+    intro: " Sacredheart was founded in 2001 and began with........ ",
     mission:
       "Every Child is Unique, with special Talents. Training turns talent to treasure. Any Child can be inspired to excellent greatness",
     mandate:
