@@ -158,7 +158,7 @@ const schoolContent = {
       title: "Speech & Price Day",
       category: "Events",
       date: "2026-08-15",
-      image: "assets/images/facilities/cultural.jpg",
+      image: "assets/images/facilities/speech:price.jpg",
       published: true,
       excerpt:
         "A day to celebrate Nigerian cultures through food, dress, music and dance.",
@@ -188,7 +188,7 @@ const schoolContent = {
       category: "Admissions",
       date: "2026-07-21",
       image: "assets/images/facilities/eagleadmission.jpg",
-      published: true,
+      published: false,
       excerpt:
         "Admission is open. Read how to begin the process for your child.",
       content:
@@ -313,14 +313,14 @@ const schoolContent = {
   testimonials: [
     {
       name: "Mrs Esther",
-      childClass: "Parent, Primary 4",
+      childClass: "Parent, JSS 1",
       photo: "assets/images/client1.jpg",
       quote:
         "We are grateful for the quality of education and care our child receives.",
     },
     {
       name: "Mrs Tim Andrew",
-      childClass: "Parent, Nursery 2",
+      childClass: "Parent, SS 2",
       photo: "assets/images/client2.jpg",
       quote:
         "The teachers know every child by name, and our son looks forward to school every morning.",
@@ -334,7 +334,7 @@ const schoolContent = {
     },
     {
       name: "Miss Janet ",
-      childClass: "Parent, Crèche",
+      childClass: "Parent, SS 3",
       photo: "assets/images/client1.jpg",
       quote:
         "Communication with the school is quick and clear, and the staff are always welcoming.",
@@ -396,10 +396,10 @@ const schoolContent = {
           name: "School Payment Office",
           desc: "Pay in person at the bursary during opening hours.",
         },
-        {
-          name: "Online Payment",
-          desc: "Online payment link to be provided by the school.",
-        },
+        // {
+        //   name: "Online Payment",
+        //   desc: "Online payment link to be provided by the school.",
+        // },
       ],
     },
   },
