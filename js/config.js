@@ -193,5 +193,5 @@ const schoolConfig = {
     "Parents",
   ],
 
-  siteUrl: "",
+  siteUrl: "https://sacredheart-edu.com.ng/",
 };
